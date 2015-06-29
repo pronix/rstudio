@@ -1,7 +1,7 @@
 Summary:	IDE for R
 Summary(pl.UTF-8):	IDE dla R
 Name:		rstudio
-Version:	0.99.39
+Version:	0.99.609
 Release:	3
 License:	AGPLv3
 Group:		Applications
